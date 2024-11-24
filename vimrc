@@ -20,5 +20,5 @@ Plug 'tpope/vim-sensible'
 Plug 'itchyny/lightline.vim'
 Plug 'lervag/vimtex'
 Plug 'lervag/vimtex', { 'tag': 'v2.15' }
-
+Plug 'neovimhaskell/haskell-vim'
 call plug#end()
